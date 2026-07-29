@@ -1,2 +1,3 @@
-The standard Git workflow is a systematic process of saving, organizing, and syncing code changes across four distinct zones: the Working Directory, Staging Area, Local Repository, and Remote Repository.
-
+for(int i=0;i<5;i++){
+System.out.println("hello");
+}

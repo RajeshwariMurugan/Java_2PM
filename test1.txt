@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 The standard Git workflow is a systematic process of saving, organizing, and syncing code changes across four distinct zones: the Working Directory, Staging Area, Local Repository, and Remote Repository.
+=======
+Marks an exact position on a flat surface.Has no size, length, width, or height.Named using a single capital letter, such as Point A.
+Marks an exact position on a flat surface.Has no size, length, width, or height.Named using a single capital letter, such as Point A.
+Marks an exact position on a flat surface.Has no size, length, width, or height.Named using a single capital letter, such as Point A.
+>>>>>>> techpanda

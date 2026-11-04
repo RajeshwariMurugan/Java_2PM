@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is my first file from main 
 =======
 Apple is an fruit 
 >>>>>>> tp
+=======
+Apple is an fruit 
+This is my first file from main 
+>>>>>>> 17f537306eee6ee1fec5f9a5782a7b2e1f3d37d6

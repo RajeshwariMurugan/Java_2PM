@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my first file from main 
+=======
+Apple is an fruit 
+>>>>>>> tp
